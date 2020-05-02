@@ -4,3 +4,4 @@
  * **Task 2**: Conexão à BD Postgres e exemplos demonstrativos;
  * **Task 3**: Utilização de informação de outro gitub (https://github.com/jgrocha/covid-pt);
  * **Task 4**: Exploração de um projeto QGIS
+ * **Task 5**: Utilização do gpkg mais recente e upload automático para o SQL
