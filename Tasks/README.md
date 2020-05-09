@@ -5,3 +5,5 @@
  * **Task 3**: Utilização de informação de outro gitub (https://github.com/jgrocha/covid-pt);
  * **Task 4**: Exploração de um projeto QGIS;
  * **Task 5**: Utilização do gpkg mais recente e upload automático para o SQL;
+ * **PT-WorkInProgress**: Apresentação dos casos de Covid-19 por concelho e distrito em PT;
+ * **WW-WorkInProgress**: Apresentação dos casos de morte, recuperação e top 10;
