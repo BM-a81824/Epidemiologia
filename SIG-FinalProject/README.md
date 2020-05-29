@@ -1,5 +1,6 @@
 # SIG - Final Project 
 
+# Motivação:
 No âmbito da Unidade Curricular de Sistema de Informação Geográfica foi solicitado um projeto que envolvesse a manipulação e tratamento de dados relacionados com o vírus COVID-19. No presente trabalho foram tratados e manipulados dados nas ferramentas QGIS e Jupyter (PyQGIS) e também realizada a extração de dados provindas de bases de dados.
 
 Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
