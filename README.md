@@ -1,3 +1,3 @@
 # Epidemiologia
- * **Pasta Geopackages**: contém diferentes ficheiros .gpkg com informações sobre valores de covid-19 de diferentes datas;
+ * **Pasta SIG-FinalProject**: inclui o projeto final relativamente ao Covid-19 em Portugal e Mundialmente.
  * **Pasta Tasks**: inclui as tarefas propostas na UC de SIG.
