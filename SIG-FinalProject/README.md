@@ -1,6 +1,6 @@
 # SIG - Final Project 
 
-# Motivação:
+## Motivação:
 No âmbito da Unidade Curricular de Sistema de Informação Geográfica foi solicitado um projeto que envolvesse a manipulação e tratamento de dados relacionados com o vírus COVID-19. No presente trabalho foram tratados e manipulados dados nas ferramentas QGIS e Jupyter (PyQGIS) e também realizada a extração de dados provindas de bases de dados.
 
 Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
@@ -50,7 +50,8 @@ Relativamente à informação mundial foram estudados os casos de confirmados, a
 * Top 10 países com casos recuperados:
 ![Casos Recuperados](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(RecoveredCases).png)
 
-* Top 10 países com casos ativos:
+* Top 10 países com casos ativos (sendo estes os casos respetivos às pessoas que estão infetadas, mas ainda não morreram nem estão recuperadas):
 ![Casos Ativos](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(ActiveCases).png)
 
+* Gráficos e mapas não estáticos que por isso devem ser vizualiados [aqui]()
 
