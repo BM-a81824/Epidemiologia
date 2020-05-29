@@ -1,6 +1,6 @@
 # SIG - Final Project 
 
-No âmbito da Unidade Curricula de Sistema de Informação Geográfica foi solicitado um projeto que envolvesse a manipulação e tratamento de dados relacionados com o vírus COVID-19. No presente trabalho foram tratados e manipulados dados nas ferramentas QGIS e Jupyter (PyQGIS) e também realizada a extração de dados provindas de bases de dados.
+No âmbito da Unidade Curricular de Sistema de Informação Geográfica foi solicitado um projeto que envolvesse a manipulação e tratamento de dados relacionados com o vírus COVID-19. No presente trabalho foram tratados e manipulados dados nas ferramentas QGIS e Jupyter (PyQGIS) e também realizada a extração de dados provindas de bases de dados.
 
 Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
 
@@ -14,7 +14,7 @@ Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
 ## Organização da informação (ficheiro ipynb): 
 
 ### FinalProject-PT: 
-* Construção de mapas por concelho e por distrito dos casos em Portugal:
+* Construção de mapas por concelho (lado esquerdo) e por distrito (lado direito) dos casos em Portugal:
  ![Concelho](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/Portugal/MapaPortugalConcelhos.png)
  ![Distrito](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/Portugal/MapaPortugalDistritos.png)
 
@@ -24,13 +24,32 @@ Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
 ![Pie Chart legend](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/Portugal/pie_legConcelho500.png)
 
 
-Relativamente à informação mundial foram estudados os casos de confirmados, mortos e recuperados por meio de mapas e gráficos estatísticos.
+Relativamente à informação mundial foram estudados os casos de confirmados, ativos (confirmados-mortos-recuperados), mortos e recuperados por meio de mapas e gráficos estatísticos.
 
 ### [FinalProject-WW_maps](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_maps.ipynb):
 
+* Mapa Taxa Mortalidade:
 ![Mapa Taxa Mortalidade](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Mortalidade.png)
+
+* Mapa Taxa Recuperados:
 ![Mapa Taxa Recuperados](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Recuperados.png)
+
+* Mapa Taxa Recuperados por morte: 
 ![Mapa Taxa Recuperados por morte](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Recuperados_morte.png)
 
+
 ### [FinalProject-WW_stats](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_stats.ipynb)
+
+* Top 10 países com casos confirmados: 
+![Casos Confirmados](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(ConfirmedCases).png)
+
+* Top 10 países com casos de mortes:
+![Casos de Mortes](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(DeathsCases).png)
+
+* Top 10 países com casos recuperados:
+![Casos Recuperados](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(RecoveredCases).png)
+
+* Top 10 países com casos ativos:
+![Casos Ativos](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(ActiveCases).png)
+
 
