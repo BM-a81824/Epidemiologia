@@ -15,7 +15,7 @@ Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
 
 ## Organização da informação (ficheiro ipynb): 
 
-### [FinalProject-PT](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-PT.ipynb)
+### [FinalProject-PT](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-PT.ipynb):
 
 * Construção de mapas por concelho (lado esquerdo) e por distrito (lado direito) dos casos em Portugal:
  ![Concelho](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/Portugal/MapaPortugalConcelhos.png)
@@ -42,7 +42,7 @@ Relativamente à informação mundial foram estudados os casos de confirmados, a
 ![Mapa Taxa Recuperados por morte](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Recuperados_morte.png)
 
 
-### [FinalProject-WW_stats](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_stats.ipynb)
+### [FinalProject-WW_stats](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_stats.ipynb):
 
 * Top 10 países com casos confirmados: 
 ![Casos Confirmados](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(ConfirmedCases).png)
