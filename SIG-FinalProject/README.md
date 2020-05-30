@@ -15,7 +15,8 @@ Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
 
 ## Organização da informação (ficheiro ipynb): 
 
-### FinalProject-PT: 
+### [FinalProject-PT](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-PT.ipynb)
+
 * Construção de mapas por concelho (lado esquerdo) e por distrito (lado direito) dos casos em Portugal:
  ![Concelho](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/Portugal/MapaPortugalConcelhos.png)
  ![Distrito](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/Portugal/MapaPortugalDistritos.png)
@@ -27,6 +28,7 @@ Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
 
 
 Relativamente à informação mundial foram estudados os casos de confirmados, ativos (confirmados-mortos-recuperados), mortos e recuperados por meio de mapas e gráficos estatísticos.
+
 
 ### [FinalProject-WW_maps](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_maps.ipynb):
 
@@ -64,7 +66,10 @@ Relativamente à informação mundial foram estudados os casos de confirmados, a
 
 * Curve Fitting de todos os países, uma vez que são bastantes, vizualizar as imagens CurveFitting_(...) que se encontram [aqui](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Figures/WW)
 
-## Trabalho realizado por
+
+
+### Trabalho realizado por
+
 Bárbara Martins, A81824
 
 
