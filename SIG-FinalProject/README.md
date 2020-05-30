@@ -8,8 +8,9 @@ Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
 
 ## Organização da pasta:
   * [Countries](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Countries): layers utilizadas para criar os mapa mundo;
-  * [Covid19](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Covid19): dados relativos à doença, retirados do repositório [COVID-19](https://github.com/CSSEGISandData/COVID-19)
-  * [Geopackages](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Geopackages): dados relativos a Portugal do repositório [covid-pt](https://github.com/jgrocha/covid-pt)
+  * [Covid19](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Covid19): dados relativos à doença, retirados do repositório [COVID-19](https://github.com/CSSEGISandData/COVID-19);
+  * [Figures](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Figures): imagens relativos a Portugal (pasta Portugal) e ao Mundo (pasta WW);
+  * [Geopackages](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Geopackages): dados relativos a Portugal do repositório [covid-pt](https://github.com/jgrocha/covid-pt).
 
 
 ## Organização da informação (ficheiro ipynb): 
@@ -53,5 +54,18 @@ Relativamente à informação mundial foram estudados os casos de confirmados, a
 * Top 10 países com casos ativos (sendo estes os casos respetivos às pessoas que estão infetadas, mas ainda não morreram nem estão recuperadas):
 ![Casos Ativos](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(ActiveCases).png)
 
-* Gráficos e mapas não estáticos que por isso devem ser vizualiados [aqui]()
+* Gráficos e mapas não estáticos que por questões de renderização, devem ser vizualizados [aqui](https://nbviewer.jupyter.org/)
+
+* Gráfico comparativo entre 3 países (neste caso foram escolhidos: Portugal, China e Itália):
+![Gráfico comparativo](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/3Countries.png)
+
+* Gráfico de todos os países que apresentam um total de mais de 10000 casos:
+![casos](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/WW10000.png)
+
+* Curve Fitting de todos os países, uma vez que são bastantes, vizualizar as imagens CurveFitting_(...) que se encontram [aqui](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Figures/WW)
+
+## Trabalho realizado por
+Bárbara Martins, A81824
+
+
 
