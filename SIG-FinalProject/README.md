@@ -10,7 +10,11 @@ Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
   * [Countries](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Countries): layers utilizadas para criar os mapa mundo;
   * [Covid19](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Covid19): dados relativos à doença, retirados do repositório [COVID-19](https://github.com/CSSEGISandData/COVID-19);
   * [Figures](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Figures): imagens relativas a Portugal [(pasta Portugal)](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Figures/Portugal) e ao Mundo [(pasta WW)](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Figures/WW);
-  * [Geopackages](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Geopackages): dados relativos a Portugal do repositório [covid-pt](https://github.com/jgrocha/covid-pt).
+  * [Geopackages](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Geopackages): dados relativos a Portugal do repositório [covid-pt](https://github.com/jgrocha/covid-pt);
+  * [FinalProject-PT.ipynb](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-PT.ipynb);
+  * [FinalProject-WW_maps.ipynb](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_maps.ipynb)
+  * [FinalProject-WW_stats.ipynb](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_stats.ipynb)
+  
 
 
 ## Organização da informação (ficheiro ipynb): 
