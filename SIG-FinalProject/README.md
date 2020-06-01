@@ -21,7 +21,7 @@ Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
 
 **NOTA**: Todas as imagens têm hiperligação para a pasta onde estão alocadas, basta clicar em cima delas.
 
-### [FinalProject-PT (.ipynb)](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-PT.ipynb):
+### [FinalProject-PT.ipynb](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-PT.ipynb):
 
 * Construção de mapas por concelho (lado esquerdo) e por distrito (lado direito) dos casos em Portugal:
  ![Concelho](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/Portugal/MapaPortugalConcelhos.png)
@@ -36,7 +36,7 @@ Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
 Relativamente à informação mundial foram estudados os casos de confirmados, ativos (confirmados-mortos-recuperados), mortos e recuperados por meio de mapas e gráficos estatísticos.
 
 
-### [FinalProject-WW_maps (.ipynb)](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_maps.ipynb):
+### [FinalProject-WW_maps.ipynb](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_maps.ipynb):
 
 * Mapa Taxa Mortalidade:
 ![Mapa Taxa Mortalidade](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Mortalidade.png)
@@ -48,7 +48,7 @@ Relativamente à informação mundial foram estudados os casos de confirmados, a
 ![Mapa Taxa Recuperados por morte](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Recuperados_morte.png)
 
 
-### [FinalProject-WW_stats (.ipynb)](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_stats.ipynb):
+### [FinalProject-WW_stats.ipynb](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_stats.ipynb):
 
 * Top 10 países com casos confirmados: 
 ![Casos Confirmados](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(ConfirmedCases).png)
