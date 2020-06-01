@@ -19,6 +19,8 @@ Abaixo segue-se a estruturação do trabalho, bem como o que cada parte inclui.
 
 ## Organização da informação (ficheiro ipynb): 
 
+**NOTA**: Todas as imagens têm hiperligação para a pasta onde estão alocadas, basta clicar em cima delas.
+
 ### [FinalProject-PT (.ipynb)](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-PT.ipynb):
 
 * Construção de mapas por concelho (lado esquerdo) e por distrito (lado direito) dos casos em Portugal:
