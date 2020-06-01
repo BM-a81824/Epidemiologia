@@ -15,4 +15,4 @@ Unidade Curricular: Sistemas de Informação Gográfica, lecionada pelo docente 
     * Para mais detalhe relatimente às tarefas executadas, clicar [aqui](https://github.com/BM-a81824/Epidemiologia/blob/master/Tasks/README.md).
  
 * [**Pasta Geopackages**](https://github.com/BM-a81824/Epidemiologia/tree/master/Geopackages): inclui ficheiros no formato (.gpkg), onde contém informações geoespaciais.
-  * Encontran.
+  * Encontram-se ficheiros geopackages utilizados em alguns dos notebooks da pasta Tasks e contém a informação relativa ao Covid-19 em Portugal.
