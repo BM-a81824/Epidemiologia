@@ -9,7 +9,7 @@
  Estes três ficheiros (.ipynb) correspondem ao processo de construção do projeto final, contudo a versão mais recente e completa encontra-se na pasta [SIG-FinalProject](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject):
  * [**WorkInProgress-PT.ipynb**](https://github.com/BM-a81824/Epidemiologia/blob/master/Tasks/WorkInProgress-PT.ipynb): Apresentação dos casos de Covid-19 por concelho e distrito em PT;
  * [**WorkInProgress-WW.ipynb**](https://github.com/BM-a81824/Epidemiologia/blob/master/Tasks/WorkInProgress-WW.ipynb): Apresentação dos casos de morte, recuperação e top 10 no mundo;
- * [**WorkInProgress-TrackingCovid.ipynb**](https://github.com/BM-a81824/Epidemiologia/blob/master/Tasks/WorkInProgress-TrackingCovid.ipynb): Gráficos representativos da evolução dos países;
+ * [**WorkInProgress-TrackingCovid.ipynb**](https://github.com/BM-a81824/Epidemiologia/blob/master/Tasks/WorkInProgress-TrackingCovid.ipynb): Gráficos representativos da evolução dos países.
  
 A pasta [Countries](https://github.com/BM-a81824/Epidemiologia/tree/master/Tasks/Countries) e [Covid19](https://github.com/BM-a81824/Epidemiologia/tree/master/Tasks/Covid19) e ao ficheiro [dados-dgs.qgz](https://github.com/BM-a81824/Epidemiologia/blob/master/Tasks/dados-dgs.qgz) foram utilizados em alguns notebooks acima descritos.
 
