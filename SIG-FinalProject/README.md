@@ -56,7 +56,7 @@ Relativamente à informação mundial foram estudados os casos de confirmados, a
 * Top 10 países com casos ativos (sendo estes os casos respetivos às pessoas que estão infetadas, mas ainda não morreram nem estão recuperadas):
 ![Casos Ativos](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(ActiveCases).png)
 
-* Gráficos e mapas não estáticos que por questões de renderização, devem ser vizualizados [aqui](https://nbviewer.jupyter.org/)
+* Gráficos e mapas não estáticos que por questões de renderização, devem ser vizualizados no [nbviewer](https://nbviewer.jupyter.org/)
 
 * Gráfico comparativo entre 3 países (neste caso foram escolhidos: Portugal, China e Itália):
 ![Gráfico comparativo](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/3Countries.png)
