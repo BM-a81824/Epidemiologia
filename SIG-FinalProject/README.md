@@ -38,39 +38,39 @@ Relativamente à informação mundial foram estudados os casos de confirmados, a
 
 ### [FinalProject-WW_maps.ipynb](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_maps.ipynb):
 
-* Mapa Taxa Mortalidade:
+* **Mapa Taxa Mortalidade**:
 ![Mapa Taxa Mortalidade](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Mortalidade.png)
 
-* Mapa Taxa Recuperados:
+* **Mapa Taxa Recuperados**:
 ![Mapa Taxa Recuperados](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Recuperados.png)
 
-* Mapa Taxa Recuperados por morte: 
+* **Mapa Taxa Recuperados por morte**: 
 ![Mapa Taxa Recuperados por morte](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Recuperados_morte.png)
 
 
 ### [FinalProject-WW_stats.ipynb](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_stats.ipynb):
 
-* Top 10 países com casos confirmados: 
+* **Top 10 países com casos confirmados**: 
 ![Casos Confirmados](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(ConfirmedCases).png)
 
-* Top 10 países com casos de mortes:
+* **Top 10 países com casos de mortes**:
 ![Casos de Mortes](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(DeathsCases).png)
 
-* Top 10 países com casos recuperados:
+* **Top 10 países com casos recuperados**:
 ![Casos Recuperados](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(RecoveredCases).png)
 
-* Top 10 países com casos ativos (sendo estes os casos respetivos às pessoas que estão infetadas, mas ainda não morreram nem estão recuperadas):
+* **Top 10 países com casos ativos** (sendo estes os casos respetivos às pessoas que estão infetadas, mas ainda não morreram nem estão recuperadas):
 ![Casos Ativos](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/Top10Countries(ActiveCases).png)
 
-* Gráficos e mapas não estáticos que por questões de renderização, devem ser vizualizados no [nbviewer](https://nbviewer.jupyter.org/github/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_stats.ipynb);
+* **Gráficos e mapas não estáticos** que, por questões de renderização, devem ser vizualizados no [nbviewer](https://nbviewer.jupyter.org/github/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/FinalProject-WW_stats.ipynb);
 
-* Gráfico comparativo entre 3 países (neste caso foram escolhidos: Portugal, China e Itália):
+* **Gráfico comparativo** entre 3 países (neste caso foram escolhidos: Portugal, China e Itália):
 ![Gráfico comparativo](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/3Countries.png)
 
 * Gráfico de todos os países que apresentam um total de mais de 10000 casos:
 ![casos](https://github.com/BM-a81824/Epidemiologia/blob/master/SIG-FinalProject/Figures/WW/WW10000.png)
 
-* Curve Fitting de todos os países, uma vez que são bastantes, vizualizar as imagens CurveFitting_(...) que se encontram [aqui](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Figures/WW).
+* **Curve Fitting** de todos os países, uma vez que são bastantes, vizualizar as imagens CurveFitting_(...) que se encontram [aqui](https://github.com/BM-a81824/Epidemiologia/tree/master/SIG-FinalProject/Figures/WW).
 
 
 
